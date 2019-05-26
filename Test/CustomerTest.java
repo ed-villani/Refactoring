@@ -3,7 +3,7 @@ import org.junit.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CustomerTest {
-
+//as
     @Test
     public void statement() {
         Movie m1 = new Movie("Pokémon: O Filme", 2);
